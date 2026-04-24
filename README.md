@@ -10,12 +10,14 @@ Hi, I’m Prashanth Pyatyal
 ⚡ Fun fact: I enjoy solving coding problems and building practical applications
 
 🛠️ Skills
+
 💻 Languages: Java, C, JavaScript
 🌐 Web: HTML, CSS
 🗄️ Database: Oracle SQL
 ⚙️ Technologies: JDBC, Hibernate, Spring Boot
 
 📈 Goals
+
 🚀 Become a Java Full Stack Developer
 📚 Build strong real-time project experience
 💼 Secure a good role in the software industry

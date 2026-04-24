@@ -1,6 +1,22 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi, I’m Prashanth Pyatyal
+🎓 BE Student at Rao Bahadur Y. Mahabaleswarappa Engineering College, Ballari
 
+🔭 I’m currently working on Java-based projects and web applications
+🌱 I’m currently learning Spring, Spring Boot, Hibernate, and Oracle SQL
+👯 I’m looking to collaborate on Java Full Stack Development projects
+🤝 I’m looking for help with real-world backend and database integration
+💬 Ask me about Java, JDBC, OOPs, SQL, HTML, CSS, JavaScript
+⚡ Fun fact: I enjoy solving coding problems and building practical applications
+🛠️ Skills
+💻 Languages: Java, C, JavaScript
+🌐 Web: HTML, CSS
+🗄️ Database: Oracle SQL
+⚙️ Technologies: JDBC, Hibernate, Spring Boot
+📈 Goals
+🚀 Become a Java Full Stack Developer
+📚 Build strong real-time project experience
+💼 Secure a good role in the software industry
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashanthp.cse.rymec@gmail.com) 
